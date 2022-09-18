@@ -1,3 +1,0 @@
-          "ip":"Hawkwords6MEG.aternos.me
-          "port":"37646",
-          "name":"Ghochu"
